@@ -11,6 +11,7 @@
 * [Kendall confronts Shiv ](https://www.youtube.com/watch?v=ORf4oHIcofw)
 * [Kendall press conference](https://www.youtube.com/watch?v=jQh0\_CzjKko)
 * [Kendall - Judas' kiss ](https://www.youtube.com/watch?v=McGcLeqrkZI)
+* [Let it rip - The Bear](https://www.youtube.com/watch?v=4amnQkSyxjg)
 
 ### Quotes
 
