@@ -7,7 +7,7 @@
 * Learn how to stop telling people more than they need to know
 * More broadly, nobody is going to teach you to think for yourself. A large fraction of what people around you believe is mistaken. Internalize this and practice coming up with your own worldview. The correlation between it and those around you shouldn't be too strong unless you think you were especially lucky in your initial conditions.
 * Have less regrets\*
-* ![](<../.gitbook/assets/image (1).png>)
+* ![](<../.gitbook/assets/image (1) (1).png>)
 
 ### Writing&#x20;
 
