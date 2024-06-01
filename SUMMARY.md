@@ -6,7 +6,7 @@
 * [👋 About Me](welcome/about-me.md)
 * [🌿 Digital Garden](welcome/digital-garden.md)
 
-## Things to Live By&#x20;
+## Things to Live By
 
 * [🌆 Learnings](things-to-live-by/learnings-life.md)
 
@@ -28,6 +28,8 @@
   * [😀 Rohan Joshi](reading/books/rohan-joshi.md)
 * [🗒️ Reading Notes](reading/reading-notes/README.md)
   * [Four Thousand Weeks](reading/reading-notes/four-thousand-weeks.md)
+* [🕵️ Notes](reading/notes/README.md)
+  * [Adam Nash on Product Leaders](reading/notes/adam-nash-on-product-leaders.md)
 
 ## Movies & Shows
 
