@@ -27,6 +27,7 @@
 
 * [📚 Books](reading/books/README.md)
   * [😀 Rohan Joshi](reading/books/rohan-joshi.md)
+  * [🍃 Learning to read faster.](reading/books/learning-to-read-faster..md)
 * [🗒️ Reading Notes](reading/reading-notes/README.md)
   * [Four Thousand Weeks](reading/reading-notes/four-thousand-weeks.md)
 * [🕵️ Notes](reading/notes/README.md)
