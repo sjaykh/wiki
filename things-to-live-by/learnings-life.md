@@ -3,7 +3,7 @@
 ### Life&#x20;
 
 * Learn to sit back, relax and observe. Not everything need a reaction
-* Give yourself enough respect to walk away from someone who does need see your worth
+* Give yourself enough respect to walk away from someone who does not see your worth
 * Learn how to stop telling people more than they need to know
 * More broadly, nobody is going to teach you to think for yourself. A large fraction of what people around you believe is mistaken. Internalize this and practice coming up with your own worldview. The correlation between it and those around you shouldn't be too strong unless you think you were especially lucky in your initial conditions.
 * Have less regrets\*
