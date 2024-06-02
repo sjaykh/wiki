@@ -9,6 +9,7 @@
 ## Things to Live By
 
 * [🌆 Learnings](things-to-live-by/learnings-life.md)
+* [🌄 Things that make me happy.](things-to-live-by/things-that-make-me-happy..md)
 
 ## Inspirations
 
@@ -72,3 +73,7 @@
   * [Findings](work/product-management/findings.md)
   * [What Makes a Great Product Manager?](work/product-management/what-makes-a-great-product-manager.md)
   * [Links](work/product-management/links.md)
+
+## Random
+
+* [Questions](random/questions.md)
