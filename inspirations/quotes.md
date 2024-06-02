@@ -1,5 +1,6 @@
 # 🛣️ Quotes
 
+* "Lebenslanger Schicksalsschatz" is not something that develops over time. It is something that happens instantaneously. It courses through you like the water of a river after a storm, filling you and emptying you all at once. You feel it throughout your body, in your hands, in your heart, in your stomach, in your skin... have you ever felt this way about someone?" - Klaus in Farmhampton episode, HIMYM
 * "I had this beautiful little domain. It was all mine. I was the emperor, the captain of it, and it was quite commodious. I had warm coffee, even."
 * ‘When death finds you, may it find you alive.’
 * “Sometimes love means taking a step back. If you care about somebody, you should want them to be happy even if you wind up being left out.” -Ted Mosby&#x20;
