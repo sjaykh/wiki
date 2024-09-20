@@ -38,7 +38,8 @@
 
 * [📽️ Scenes & Quotes](movies-and-shows/scenes-and-quotes.md)
 * [🎞️ Links](movies-and-shows/movies.md)
-* [🌅 Music](movies-and-shows/music.md)
+* [🌅 Music](movies-and-shows/music/README.md)
+  * [Gems I stumbled upon](movies-and-shows/music/gems-i-stumbled-upon.md)
 * [📽️ Film Making](movies-and-shows/film-making/README.md)
   * [Anamorphic Lens](movies-and-shows/film-making/anamorphic-lens.md)
 
