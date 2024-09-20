@@ -1,8 +1,8 @@
 ---
-description: Creating a list of trigger songs!
+description: Creating a list of songs that act as a catalyst!
 ---
 
-# Gems I stumbled upon
+# Catalysts.
 
 People use music in different ways, and I am just starting to discover some gems.&#x20;
 
