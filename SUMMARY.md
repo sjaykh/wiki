@@ -50,6 +50,7 @@
     * [2024 February](writing/looking-back/2024/2024-february.md)
     * [2024 March](writing/looking-back/2024/2024-march.md)
     * [2024 April](writing/looking-back/2024/2024-april.md)
+    * [2024 October](writing/looking-back/2024/2024-april-1.md)
   * [2023](writing/looking-back/2023/README.md)
     * [2023 January](writing/looking-back/2023/2023-january.md)
     * [2023 February](writing/looking-back/2023/2023-february.md)
