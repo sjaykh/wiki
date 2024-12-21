@@ -34,6 +34,16 @@
 * [🕵️ Notes](reading/notes/README.md)
   * [Adam Nash on Product Leaders](reading/notes/adam-nash-on-product-leaders.md)
 
+## Work
+
+* [✍️ Writings](work/writings/README.md)
+  * [Problem Solving](work/writings/problem-solving.md)
+* [🌎 Work.](work/work..md)
+* [🔍 Product Management](work/product-management/README.md)
+  * [Findings](work/product-management/findings/README.md)
+    * [What Makes a Great Product Manager?](work/product-management/findings/what-makes-a-great-product-manager.md)
+  * [Links](work/product-management/links.md)
+
 ## Movies & Shows
 
 * [📽️ Scenes & Quotes](movies-and-shows/scenes-and-quotes.md)
@@ -51,6 +61,7 @@
     * [2024 March](writing/looking-back/2024/2024-march.md)
     * [2024 April](writing/looking-back/2024/2024-april.md)
     * [2024 October](writing/looking-back/2024/2024-april-1.md)
+    * [2024 December](writing/looking-back/2024/2024-april-2.md)
   * [2023](writing/looking-back/2023/README.md)
     * [2023 January](writing/looking-back/2023/2023-january.md)
     * [2023 February](writing/looking-back/2023/2023-february.md)
@@ -69,16 +80,6 @@
   * [the dilemma on whether to act or to wait](writing/random-thoughts/the-dilemma-on-whether-to-act-or-to-wait.md)
   * [ദൈവത്തെക്കുറിച്ച്...](writing/random-thoughts/....md)
   * [a tragedy](writing/random-thoughts/a-tragedy.md)
-
-## Work
-
-* [✍️ Writings](work/writings/README.md)
-  * [Problem Solving](work/writings/problem-solving.md)
-* [🌎 Work.](work/work..md)
-* [🔍 Product Management](work/product-management/README.md)
-  * [Findings](work/product-management/findings.md)
-  * [What Makes a Great Product Manager?](work/product-management/what-makes-a-great-product-manager.md)
-  * [Links](work/product-management/links.md)
 
 ## Random
 
