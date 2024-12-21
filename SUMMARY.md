@@ -72,6 +72,8 @@
 
 ## Work
 
+* [✍️ Writings](work/writings/README.md)
+  * [Problem Solving](work/writings/problem-solving.md)
 * [🌎 Work.](work/work..md)
 * [🔍 Product Management](work/product-management/README.md)
   * [Findings](work/product-management/findings.md)
