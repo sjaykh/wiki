@@ -1,5 +1,6 @@
 # 🛣️ Quotes
 
+* “No matter what, expect the unexpected. And whenever possible BE the unexpected.”  \~Lynda Barry
 * Mark Andressen about Elon Musk
   * Elon inspires incredible loyalty from his employees because they know he'll sit all night with them to solve a problem.“Elon actually delegates almost everything. He's not involved in most of the things that his companies are doing. He's involved in the thing that is the biggest problem right now until that thing is fixed. And then, he doesn't have to be involved in it anymore, he can go focus on the next thing that's the biggest problem for that company right now.
   * In any manufacturing chain, there's always some bottleneck, something that is keeping the manufacturing line from running the way that it's supposed to. Whatever the bottleneck, it's holding everything up. The job number one is to remove that bottleneck and get everything flowing again. I think Elon basically has universalized that concept and he basically looks at every company like it's some sort of conceptual assembly line. I don't need to manage everything else because everything else, by definition, is running better than that. I can go focus on that.
