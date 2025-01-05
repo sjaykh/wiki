@@ -12,6 +12,10 @@ Gurpriya is one of these people I admire a lot and look up to - not professional
 
 Creature Commandos is so good! Excited for the future of DCU. In James Gunn we trust.&#x20;
 
+Abbot Elementary&#x20;
+
+Watching 30 Rock , what a fun show!&#x20;
+
 #### Scenes ❤️
 
 ### Reading
