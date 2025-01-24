@@ -4,7 +4,7 @@ description: >-
   things done.
 ---
 
-# 🌄 Uses this.
+# 🕹️ Uses this
 
 ### Devices&#x20;
 
@@ -31,7 +31,7 @@ description: >-
 
 ### Stuff
 
-* Supplements
+* **Supplements**
   * Protein - Optimum Nutrition Gold Whey & The Whole Truth Whey&#x20;
   * Creatine - Optimum Nutrition&#x20;
   * Omega 3 - Muscleblaze&#x20;
