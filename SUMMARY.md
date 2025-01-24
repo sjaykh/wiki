@@ -10,6 +10,7 @@
 
 * [🌆 Learnings](things-to-live-by/learnings-life.md)
 * [🌄 Things that make me happy.](things-to-live-by/things-that-make-me-happy..md)
+* [🌄 Uses this.](things-to-live-by/things-that-make-me-happy.-1.md)
 
 ## Inspirations
 
