@@ -28,7 +28,9 @@ description: >-
 * **Groww/Coin/Kite/Smallcase** - For investments&#x20;
 * **Spotify** - Music&#x20;
 * **Youtube Premium** - Entertainment/Music
-* **Goodreads -** To log and track books read&#x20;
+* [**Goodreads**](http://goodreads.com/sjaykh) **-** To log and track books read&#x20;
+* [**Letterboxd**](https://letterboxd.com/sjaykh/) - To log and review movies I have watched. Power user of this one.&#x20;
+* **Hotstar/JioCinemas/Netflix/Prime Video** - For streaming. Huge movie buff.&#x20;
 
 ### Stuff
 
