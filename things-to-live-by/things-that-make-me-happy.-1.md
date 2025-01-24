@@ -19,7 +19,7 @@ description: >-
 
 ### Apps/Software
 
-* **Todoist -** For all things tasks/reminders, uses the unpaid version.&#x20;
+* **Todoist -** For all things tasks/reminders/habit tracking, uses the unpaid version.&#x20;
 * **Notion -** For scribbling and quick notes.&#x20;
 * **Apple Notes** - For scribbling in iPad&#x20;
 * **Google Keep -** Again for scribbling
@@ -28,6 +28,7 @@ description: >-
 * **Groww/Coin/Kite/Smallcase** - For investments&#x20;
 * **Spotify** - Music&#x20;
 * **Youtube Premium** - Entertainment/Music
+* **Goodreads -** To log and track books read&#x20;
 
 ### Stuff
 
