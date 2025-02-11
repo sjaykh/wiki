@@ -16,12 +16,23 @@ Abbot Elementary&#x20;
 
 Watching 30 Rock , what a fun show!&#x20;
 
+[Babu Ramachandran's interview with Tovino ](https://www.youtube.com/watch?v=2Mwg-T1lBxQ)is one of the best interviews I have watched recently.
+
+* Tovino's take on living one's life and being fit is an insipiration for me.&#x20;
+
 #### Scenes ❤️
 
 ### Reading
 
 Currently reading - The Ivory Throne.&#x20;
 
-Planning to get my copies signed by Manu S Pillai, as he is coming to Kochi on 10th of January.&#x20;
+Read&#x20;
+
+* Arakinnam Kulir by Deepu Pradeep&#x20;
+  * Got a chance to meet the author himself and got my copy signed.
+  *
+
+      <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Interesting
+
