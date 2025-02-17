@@ -1,5 +1,10 @@
 # 🛣️ Quotes
 
+*   **People only really learn when they’re surprised.** If they’re not surprised, then what you told them just fits in with what they already know. No minds were changed. No new perspective. Just more information.
+
+    So my main advice to anyone preparing to give a talk on stage is to cut out everything from your talk that’s not surprising. (Nobody has ever complained that a talk was too short.)
+
+    **Use this rule in all your public writing.** If you already found something surprising in what you’re presenting, then remove everything else. If you haven’t found something surprising about it yet, keep looking until you do.
 * "Staving off death is a thing that you have to work at. Left to itself-and that is what it is when it dies the body tends to revert to a state of equilibrium with its environment. If you measure some quantity such as the temperature, the acidity, the water content or the electrical potential in a living body, you will typically find that it is markedly different from the corresponding measure in the surroundings. Our bodies, for instance, are usually hotter than our surroundings, and in cold climates they have to work hard to maintain the differential. When we die the work stops, the temperature differential starts to disappear, and we end up the same temperature as our surroundings. Not all animals work so hard to avoid coming into equilibrium with their surrounding temperature, but all animals do some comparable work. For instance, in a dry country, animals and plants work to maintain the fluid content of their cells, work against a natural tendency for water to flow from them into the dry outside world. If they fail they die. More generally, if living things didn't work actively to prevent it, they would eventually merge into their surroundings, and cease to exist as autonomous beings. That is what happens when they die."
 * “No matter what, expect the unexpected. And whenever possible BE the unexpected.”  \~Lynda Barry
 * Mark Andressen about Elon Musk
