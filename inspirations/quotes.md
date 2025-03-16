@@ -1,5 +1,7 @@
 # 🛣️ Quotes
 
+* What most people who've found breakthrough success have in common is that they weren't trying to aim for breakthrough success.  \
+  So, what were they doing instead? They were sniffing around to discover and follow the path they deemed most interesting. This obviously isn't guaranteed to give success either. There are lots of things we find interesting that don't amount to much (in fact, that's the default case). But, by following the gradient of interestingness, you're increasing your chances of stumbling upon success
 *   **People only really learn when they’re surprised.** If they’re not surprised, then what you told them just fits in with what they already know. No minds were changed. No new perspective. Just more information.
 
     So my main advice to anyone preparing to give a talk on stage is to cut out everything from your talk that’s not surprising. (Nobody has ever complained that a talk was too short.)
