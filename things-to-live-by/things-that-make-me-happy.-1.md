@@ -9,7 +9,7 @@ description: >-
 ### Devices&#x20;
 
 * **Macbook Air M1 (2020)** - Personal/Work Laptop&#x20;
-* **Samsung Galaxy S23** - Phone&#x20;
+* **iPhone 16 Pro** - Phone&#x20;
 * **Kindle Paperwhite Gen 10** - Best purchase in terms of ROI&#x20;
 * **Sony WF-1000XM5** - Best earbuds I have used&#x20;
 * **iPad Air M2 (2024)** - I spent a lot of time deciding whether to purchase this or not, so far so good. Uses it to watch content, make notes, and scribble.&#x20;
