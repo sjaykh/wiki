@@ -1,5 +1,34 @@
 # 🛣️ Quotes
 
+*   Life is made of moments. The little moments that slip through your fingers if you're not paying attention. Like your cat purring on the sofa. Watching your favourite tv show with your girlfriend. Feeling safe in a space you never thought you could be safe in.
+
+    You think you'll remember the big moments but you won't. Here's why. Big moments come with baggage. Expectations. Pressure. You're so busy trying to make them perfect, to feel what you're supposed to feel, that you forget to actually feel anything at all.
+
+    Take Christmas Day. Everyone tells you it's supposed to be this magical, joyous time. But for me? It never lived up to the hype. There's too much forced celebration. I'm expected to smile and be merry on cue. It's like being an actor in a play I never auditioned for. The whole charade becomes a blur of faces, forced smiles, and anxiety. Not just Christmas - all those supposedly big moments. Getting married, big birthday bashes - they all crumple under the weight of expectation.
+
+    But little moments? They sneak up on you. No warning. No time to overthink. They're pure, unfiltered life. A laugh that catches you off guard. The way sunlight hits a raindrop on a leaf. Your dog's tail wagging when you come home. These stick because they're real. Raw. Unplanned.
+
+    It's like trying to grab water. The tighter you squeeze, the more slips away. Big moments are you squeezing hard, desperate to hold on. Little moments? They're when you open your hand and let the water pool naturally. That's what your mind holds onto.
+
+    That's why we can remember them so vividly.
+
+    The way her hair smells in the morning. The way my cat looks at me when he hears rumpling in the kitchen and is expecting a treat.
+
+    Life is made of little moments.
+
+    Savour them like you've been starved of water in a desert. The way you do this is by paying attention. You don't need to meditate, or be mindful. You just need to pay attention.
+
+    When you do, the world changes. It's like your senses wake up. You start noticing things you've walked past a thousand times before. Colours get brighter. Sounds clearer. The everyday becomes a treasure hunt of newness.
+
+    And that's when it'll hit you - all the life you've been missing. It's like you've been sleepwalking, and someone just shook you awake. And then you’ll get upset at all the little moments you’ll never remember.
+
+    For all the life you've missed.
+
+    I say this because I've lost so many little moments. Too caught up in my own head. Too busy waiting for a big moment to finally arrive so I can languish in it. Like when I was in medical school.
+
+    I was so focused on graduating, on chasing status and success of being the first in my family to become a doctor, that I missed out on the joy of the process. I was too busy being Draco Malfoy when I should've been Harry Potter. Cherishing friendships and small victories. In hindsight, I was foolish and naive. The diploma was just a piece of paper, but the connections and experiences I rushed past? Those were the real treasures.
+
+    Don't be like me, losing years to distraction or elusive goals. Pay attention.
 * The ability to observe without evaluating is the highest form of intelligence.
 * quit brainrot. unfollow trolls. read essays. go down rabbit holes. have a calendar. maintain a todo list. read old books. watch old movies. turn on dnd. walk with intent. eat without youtube. chew more. train without music. plan for 15 mins. execute. organise your desk. take something seriously. read ancient scripts. act fast. find bread. eat clean. journal. save a life. learn to code. read poetry. create art. stay composed. refine your speech. optimise for efficiency. act sincere. help people. be kind. stop doing things that waste your time. follow your intuition. craft reputation. learn persuasion. systemise your day (or don’t). write. write. write. write more. iterate violently. leave your phone at home. walk to the grocery store. talk to strangers. feed the dogs. visit bookstores. look for 1800s novels. experience art. then love. sit with a monk and offer them lunch. don't talk shit about people. embody virtue. sit alone. do something with your life. what do you want to create? turn off your mind. play. play a sport. combat sports. notice fonts in trees. fall in love. notice patterns on a table. visualise it. talk to people with respect. don't hate. be loving. be real. become yourself. cherrypick your qualities. discard the useless. rejections aren't permanent. invite what aligns. accept what does not. read great people. be different. choose different. do great work. let it consume you. lose your mind. value your time. experience life. \~Gaurav
 * What most people who've found breakthrough success have in common is that they weren't trying to aim for breakthrough success.  \
