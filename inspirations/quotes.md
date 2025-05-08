@@ -1,5 +1,8 @@
 # 🛣️ Quotes
 
+*
+
+    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 *   Life is made of moments. The little moments that slip through your fingers if you're not paying attention. Like your cat purring on the sofa. Watching your favourite tv show with your girlfriend. Feeling safe in a space you never thought you could be safe in.
 
     You think you'll remember the big moments but you won't. Here's why. Big moments come with baggage. Expectations. Pressure. You're so busy trying to make them perfect, to feel what you're supposed to feel, that you forget to actually feel anything at all.
