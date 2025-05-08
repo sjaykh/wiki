@@ -14,7 +14,7 @@ description: >-
 * **Sony WF-1000XM5** - Best earbuds I have used&#x20;
 * **iPad Air M2 (2024)** - I spent a lot of time deciding whether to purchase this or not, so far so good. Uses it to watch content, make notes, and scribble.&#x20;
 * **Apple Pencil Pro -** To write/draw in my iPad
-* **Samsung Galaxy Watch 7 -** Mainly to track steps and workouts. Calls and notifications disabled.&#x20;
+* **Apple Watch SE2 -** Mainly to track steps and workouts. Calls and notifications disabled.&#x20;
 * **Xiaomi Pocket Power Bank 10000mAh -** Handy and looks cute
 
 ### Apps/Software
