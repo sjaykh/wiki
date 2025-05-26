@@ -22,6 +22,7 @@
   * [You matter very much](inspirations/literature-writings./you-matter-very-much.md)
   * [The Pale Blue Dot](inspirations/literature-writings./the-pale-blue-dot.md)
   * [Do not ask your children to strive for extraordinary lives](inspirations/literature-writings./do-not-ask-your-children-to-strive-for-extraordinary-lives.md)
+  * [beautiful words.](inspirations/literature-writings./beautiful-words..md)
 * [🧭 Philosophy](inspirations/philosophy.md)
 * [🫂 People](inspirations/people.md)
 
