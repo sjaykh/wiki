@@ -1,5 +1,28 @@
 # 🛣️ Quotes
 
+* Like many from my generation (the 90s kids), I’ve often felt that quiet hum of restlessness. Somewhere along the way, I think we lost touch — not with technology or trends, but with a sense of purpose.\
+  \
+  Not in a dramatic way. We’re still around, showing up, swiping, working. But if you really look at it, many of us are quietly struggling with a sense of purpose. There’s this fog we carry, a kind of restlessness. A lot of people talk about depression and burnout. I think a part of it has to do with how little we have left to do that actually feels meaningful.\
+  \
+  Let me explain.\
+  \
+  Take something as basic as getting groceries. There was a time when that meant walking to the local store, picking out vegetables, feeling them in your hand, bargaining a bit, saying hello to the shopkeeper. You'd think through what you want to eat the next day. It was mundane, but real. Now, your groceries arrive in minutes and dinner shows up before the reel ends.\
+  \
+  It’s efficient, sure. But it’s also empty. There’s a difference between convenience and laziness. And sometimes, I think the line got blurry. These apps have built their entire business on top of our laziness—and honestly, they’re winning (& killing local economy. See comments). But what are we losing?\
+  \
+  We’re losing small routines that made us feel human. That daily walk to the store, the simple joy of making a good cup of chai, the random chat with the guy at the counter—these were small wins, and small wins matter. When you pick out your own groceries, you're not just shopping. You're deciding, you're being mindful, you're staying in touch with your needs and with the world outside your phone.\
+  \
+  But if everything arrives at your doorstep before you even think about it, what’s left for your brain to chew on?\
+  \
+  I see this especially in urban places like Kochi, where people default to delivery for everything. It's not always about time or convenience. Sometimes, it’s just... apathy. You don’t want to think. You don’t want to deal. But ironically, it’s in dealing with life’s tiniest frictions that we learn how to live.\
+  \
+  Some things might seem meaningless on the surface—picking the right tomato, brewing your own tea, choosing what shirt to wear—but this is where meaning hides. It's not waiting for you in some big grand revelation. It's tucked away in small, quiet rituals.\
+  \
+  When you don’t have those, and when your mind goes idle, that’s when the heaviness creeps in. The dullness. The scrolling. The sense that something’s missing, but you can’t quite name it.\
+  \
+  Maybe it’s that we gave up too many of life’s little chores, and in return, we lost the chance to feel alive.\
+  \
+  Just a thought. \~Abid Aboobaker&#x20;
 *
 
     <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>

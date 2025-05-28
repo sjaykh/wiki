@@ -24,7 +24,7 @@ description: >-
 * **Apple Notes** - For scribbling in iPad&#x20;
 * **Google Keep -** Again for scribbling
 * **ChatGPT Plus -** Assistant/the guy in the wheel chair who gives all the information :P&#x20;
-* **Hevy -** To track and log my workouts&#x20;
+* [**Hevy** ](https://hevy.com/user/sjaykh)**-** To track and log my workouts&#x20;
 * **Groww/Coin/Kite/Smallcase** - For investments&#x20;
 * **Spotify** - Music&#x20;
 * **Youtube Premium** - Entertainment/Music
