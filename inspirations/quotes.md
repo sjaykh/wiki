@@ -1,5 +1,6 @@
 # 🛣️ Quotes
 
+* "The best coaches don't have the answers, they have the questions"
 * Like many from my generation (the 90s kids), I’ve often felt that quiet hum of restlessness. Somewhere along the way, I think we lost touch — not with technology or trends, but with a sense of purpose.\
   \
   Not in a dramatic way. We’re still around, showing up, swiping, working. But if you really look at it, many of us are quietly struggling with a sense of purpose. There’s this fog we carry, a kind of restlessness. A lot of people talk about depression and burnout. I think a part of it has to do with how little we have left to do that actually feels meaningful.\
