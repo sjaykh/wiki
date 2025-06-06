@@ -1,5 +1,6 @@
 # 🛣️ Quotes
 
+* "any moment where you are not into that moment then you are dead to that moment".
 * "The best coaches don't have the answers, they have the questions"
 * Like many from my generation (the 90s kids), I’ve often felt that quiet hum of restlessness. Somewhere along the way, I think we lost touch — not with technology or trends, but with a sense of purpose.\
   \
