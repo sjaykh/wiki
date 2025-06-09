@@ -1,5 +1,59 @@
 # 🛣️ Quotes
 
+*   Life happens backwards.
+
+    You only understand it after it’s already happened. After the job you quit becomes the best decision you ever made. After the heartbreak teaches you something no romance ever could. After the so-called failure cracks you open just enough to grow.
+
+    I used to think decisions needed clarity. That before taking a step, I had to know where it would lead. So I did what most overthinkers do. I sat with it. I journaled. I listed pros and cons. I made spreadsheets of outcomes that never came.
+
+    I was in a loop. A perfect storm of analysis paralysis.\
+    Too many thoughts. Too little action.
+
+    I did that because I was scared.\
+    Of picking the wrong path.\
+    Of wasting time.\
+    Of regretting something I couldn’t undo.
+
+    And yet, every major shift in my life happened when I moved before I was ready. When I quit a job not knowing where I’d go next. When I went for an impromptu meeting without preparation. When I wrote and posted something that my brain hadn’t approved but my body knew was right.
+
+    It’s only in looking back that the pattern becomes clear.\
+    It didn’t look like clarity then. It looked like chaos.
+
+    In physics, there’s something called retarded time.\
+    You never see an object as it is. You see it as it was. Because light, even at its unimaginable speed, takes time to travel. The sun you see is the sun from eight minutes ago. The stars are already dead by the time their glow reaches us.
+
+    Our understanding works the same way.\
+    We don’t perceive life as it is. We perceive it as it was.\
+    Clarity isn’t immediate. It’s retrospective.
+
+    Modiji didn’t know he would become the PM of India.\
+    SRK didn’t know Bombay would make him last of the stars.\
+    Kohli didn’t know that playing through grief would etch his name into one of India's greatest cricket legend.\
+    They didn’t wait for certainty. They acted. And meaning followed.
+
+    The mistake is thinking we need to know before we move.\
+    But knowing is a luxury.\
+    Choosing is a necessity.
+
+    And so now, when I’m caught in that same loop, staring at timelines, questioning the timing, fearing the unknown, I remind myself:\
+    Clarity is a consequence. Not a prerequisite.\
+    The fog isn’t failure. It’s just a stretch of road your mind hasn’t mapped yet.
+
+    If it feels hard, that’s not a red flag. That’s data.\
+    If you feel stuck, you’re probably just mid-swing in a much larger arc.\
+    If you’re doubting, it means you’re growing.
+
+    Because life, like quantum particles, doesn’t settle until you observe it.\
+    And sometimes, you have to act first and understand later.
+
+    The question isn’t: Do I know enough to begin?\
+    The real question is: Am I brave enough to begin without knowing?
+
+    Because meaning doesn’t come from standing still.\
+    It comes from walking.\
+    And trusting that somewhere down the road\
+    What feels like confusion today\
+    Will become your favourite paragraph in the story you didn’t know you were writing.
 * "any moment where you are not into that moment then you are dead to that moment".
 * "The best coaches don't have the answers, they have the questions"
 * Like many from my generation (the 90s kids), I’ve often felt that quiet hum of restlessness. Somewhere along the way, I think we lost touch — not with technology or trends, but with a sense of purpose.\
