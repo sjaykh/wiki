@@ -1,5 +1,20 @@
+---
+description: collected from various sources
+---
+
 # 🛣️ Quotes
 
+*   Time is not just numbers on a clock - it’s slices of our life that we give away. When we work, we’re not just trading hours for money; we’re trading pieces of our existence that we could have spent with family, friends, or pursuing what we truly love.
+
+    Our life is actually just a series of such hours - moments that we’ll never get back. We often think we have infinite time ahead of us, living in the comforting illusion of “years” that stretch endlessly forward. But when we start seeing our life in hours instead of years, everything shifts. Each hour becomes precious, meaningful, a conscious choice of how we’re spending our finite existence.
+
+    The truth is unsettling but liberating: we don’t have forever. Once we truly understand this, we can no longer postpone figuring out what we want from life. “Later” is a luxury we can’t afford because “later” is made up of these very hours we’re living through right now.
+
+    So many of us are running on autopilot, taking jobs that are “fine for now,” staying in situations that don’t fulfill us because we’ll “eventually” figure out our true path. But that “eventually” is composed of thousands of real hours of our actual lives - hours we’re giving away while waiting to start living.
+
+    Life doesn’t happen in the someday or the eventually. It happens in hours - this hour, the next hour. And once we truly understand this, we can’t help but seek clarity.
+
+    The question isn’t just “What do I want to do with my life?” but rather “What do I want to do with this hour, and the next, and the next?” Because those hours - not some distant future - are where our life actually exists. - Gautam Shankar, [On the value of our hours](https://ingau.me/blog/on-the-value-of-our-hours/)
 *   Life happens backwards.
 
     You only understand it after it’s already happened. After the job you quit becomes the best decision you ever made. After the heartbreak teaches you something no romance ever could. After the so-called failure cracks you open just enough to grow.
