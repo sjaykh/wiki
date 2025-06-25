@@ -90,6 +90,10 @@
 * [📽️ Film Making](movies-and-shows/film-making/README.md)
   * [Anamorphic Lens](movies-and-shows/film-making/anamorphic-lens.md)
 
+## Ideas/interesting stuff
+
+* [Product Ideas](ideas-interesting-stuff/questions.md)
+
 ## Random
 
 * [Questions](random/questions.md)
