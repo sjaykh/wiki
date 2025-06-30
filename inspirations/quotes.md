@@ -4,6 +4,13 @@ description: collected from various sources
 
 # 🛣️ Quotes
 
+*   Tolstoy on shortening the distance between where you are and where you want to go:
+
+    _“A man on a thousand-mile walk has to forget his ultimate goal and say to himself every morning, ‘Today I’m going to cover twenty-five miles and then rest up and sleep.’”_
+*   Singer Jewel shares her formula for happiness:
+
+    _“Do things that lend themselves to the happiness you desire. Exercise. Eat well. Do something that makes you feel joy, even when you don’t feel like it. Surround yourself with people you admire and who add substance to your life.”_
+* Everyone wants the summary. But the summary is what's left after someone else decided what matters. Their priorities aren't yours. Their filters aren't yours. When you operate on summaries, you're thinking with someone else's brain.
 *   Time is not just numbers on a clock - it’s slices of our life that we give away. When we work, we’re not just trading hours for money; we’re trading pieces of our existence that we could have spent with family, friends, or pursuing what we truly love.
 
     Our life is actually just a series of such hours - moments that we’ll never get back. We often think we have infinite time ahead of us, living in the comforting illusion of “years” that stretch endlessly forward. But when we start seeing our life in hours instead of years, everything shifts. Each hour becomes precious, meaningful, a conscious choice of how we’re spending our finite existence.
