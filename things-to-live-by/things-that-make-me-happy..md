@@ -21,6 +21,7 @@ description: >-
 * Milestones in career - salary hikes/promotions&#x20;
 * Compliments from friends and coworkers
 * Writing down my thoughts&#x20;
+* A good workout
 * Watching talks by people I learn from&#x20;
 * Talking about pop culture
 
