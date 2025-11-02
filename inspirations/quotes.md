@@ -4,6 +4,7 @@ description: collected from various sources
 
 # 🛣️ Quotes
 
+* “The biggest heartbreak wasn’t watching the system fail good people; it was watching some of those same people get reshaped by it. They began to mirror the very patterns they once recognized and resisted, because that was the model of “leadership” around them.”
 *
 
     <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
