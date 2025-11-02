@@ -4,7 +4,7 @@ Doing good, being productive. Trying to catch up on a lot especially reading. St
 
 Ordered a classic Casio watch.&#x20;
 
-![](<../../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Never really got into the smart watch trend. If I'm investing in one, it would probably be the Apple watch but even those can't beat the look of this Casio.&#x20;
 

@@ -340,4 +340,4 @@ description: collected from various sources
 * <mark style="background-color:green;">"Then, for the first time in my life, I was really aware of another person’s body, of another person’s smell. We had our arms around each other. It was like a holding in my hand some rare, exhausted, nearly doomed bird which I had miraculously happened to find." - Giovannis's Room</mark>
 *
 
-    ![](<../.gitbook/assets/image (2) (1).png>)
+    ![](<../.gitbook/assets/image (2) (1) (1).png>)

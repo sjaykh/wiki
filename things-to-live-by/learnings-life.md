@@ -8,7 +8,7 @@
 * Learn how to stop telling people more than they need to know
 * A strong personality is built on **presence**—pausing to think and listening deeply to others.
 * Have less regrets\*
-* ![](<../.gitbook/assets/image (1) (1) (1).png>)
+* ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### Writing&#x20;
 
