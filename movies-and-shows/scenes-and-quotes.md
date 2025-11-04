@@ -2,6 +2,8 @@
 
 ### Scenes
 
+* [Local Hero - Final Scene and Credits ](https://www.youtube.com/watch?v=JPuj9_94TBQ\&list=LL\&index=3)
+* [Local Hero - Last Scene](https://www.youtube.com/watch?v=Ea6D3VT4uSI\&list=LL\&index=4)&#x20;
 * [Roy Kent returns to Richmond](https://www.youtube.com/watch?v=SwYv1vrJ_J4)
 * [Jesse Pinkman moves to Alaska](https://www.youtube.com/watch?v=yx8J8CmRFNg)
 * [mob life - Sopranos](https://www.youtube.com/watch?v=OdR9sDI9K0g)
