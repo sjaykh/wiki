@@ -85,9 +85,9 @@
   * [ദൈവത്തെക്കുറിച്ച്...](writing/random-thoughts/....md)
   * [a tragedy](writing/random-thoughts/a-tragedy.md)
 
-## Group 1
+## FOOD
 
-* [Food](group-1/food.md)
+* [🍜 About Food](food/about-food.md)
 
 ## Movies & Shows
 
