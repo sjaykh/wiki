@@ -14,7 +14,7 @@ Returned to working out. I feel good after working out. I missed it. Getting bac
 
 I guess I am missing out on a lot of things in these letters so I guess it will be better if I keep on updating these kinds of every week when I think of something. Will do this from September onwards.&#x20;
 
-PS: Reading a lot of coffee was not a good decision.&#x20;
+PS: ~~Reading~~ Drinking a lot of coffee was not a good decision.&#x20;
 
 ***
 
