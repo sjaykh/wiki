@@ -4,6 +4,7 @@ description: collected from various sources
 
 # 🛣️ Quotes
 
+* "I've always thought of myself as an 80 percenter. I like to throw myself passionately into a sport or activity until I reach about an 80 percent proficiency level. To go beyond that requires an obsession that doesn't appeal to me." Yvon Chouinard
 * “The biggest heartbreak wasn’t watching the system fail good people; it was watching some of those same people get reshaped by it. They began to mirror the very patterns they once recognized and resisted, because that was the model of “leadership” around them.”
 *
 
