@@ -8,6 +8,12 @@
 * Learn how to stop telling people more than they need to know
 * A strong personality is built on **presence**—pausing to think and listening deeply to others.
 * Have less regrets\*
+* If something takes 2 minutes to do, do it immediately. Else add it to a todo list&#x20;
+* Before bookmarking anything, read it or skim through the doc to get the gist.&#x20;
+* [Have no-zero days ](https://www.reddit.com/r/getdisciplined/comments/1q96b5/comment/cdah4af/)
+  *   [no-0-days.md](../reading/notes/no-0-days.md "mention")
+
+      <figure><img src="../.gitbook/assets/x1 = OK.png" alt=""><figcaption></figcaption></figure>
 * ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### Writing&#x20;

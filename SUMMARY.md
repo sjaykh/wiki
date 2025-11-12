@@ -12,6 +12,7 @@
 * [🌄 Things that make me happy.](things-to-live-by/things-that-make-me-happy..md)
 * [🕹️ Uses this](things-to-live-by/things-that-make-me-happy.-1.md)
 * [🌻 Keep going](things-to-live-by/keep-going.md)
+* [🧭 What should I do in life?](things-to-live-by/what-should-i-do-in-life.md)
 
 ## Inspirations
 
@@ -36,6 +37,7 @@
   * [Four Thousand Weeks](reading/reading-notes/four-thousand-weeks.md)
 * [🕵️ Notes](reading/notes/README.md)
   * [Adam Nash on Product Leaders](reading/notes/adam-nash-on-product-leaders.md)
+  * [No 0 days](reading/notes/no-0-days.md)
 
 ## Work
 
