@@ -14,7 +14,7 @@
   *   [no-0-days.md](../reading/notes/no-0-days.md "mention")
 
       <figure><img src="../.gitbook/assets/x1 = OK.png" alt=""><figcaption></figcaption></figure>
-* ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+* ![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 ### Writing&#x20;
 
