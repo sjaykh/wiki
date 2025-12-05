@@ -16,7 +16,9 @@ description: >-
   * I lost my XM5 charging case :(
 * **iPad Air M2 (2024)** - I spent a lot of time deciding whether to purchase this or not, so far so good. Uses it to watch content, make notes, and scribble.&#x20;
 * **Apple Pencil Pro -** To write/draw in my iPad
-* **Apple Watch SE2 -** Mainly to track steps and workouts. Calls and notifications disabled.&#x20;
+* **Apple Watch Series 11 -**&#x20;
+  * A very good upgrade in terms of battery life.&#x20;
+  * ~~**Apple Watch SE2 -** Mainly to track steps and workouts. Calls and notifications disabled.~~&#x20;
 * **Xiaomi Pocket Power Bank 10000mAh -** Handy and looks cute
 
 ### Apps/Software
@@ -42,6 +44,8 @@ description: >-
   * Omega 3 - Muscleblaze&#x20;
   * Multivitamins - Muscleblaze&#x20;
 * **ATOM Digital Kitchen Food Weighing Scale -** Cheap but does the job
+* ON Cloud X - Workout shoes&#x20;
+* ON Cloud 5 - Daily wear&#x20;
 
 
 
