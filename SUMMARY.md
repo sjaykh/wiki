@@ -8,8 +8,8 @@
 
 ## Things to Live By
 
-* [🌆 Learnings](things-to-live-by/learnings-life/README.md)
-  * [Priorities](things-to-live-by/learnings-life/priorities.md)
+* [🌆 Learnings](things-to-live-by/learnings-life.md)
+* [Priorities](things-to-live-by/priorities.md)
 * [🌄 Things that make me happy.](things-to-live-by/things-that-make-me-happy..md)
 * [🕹️ Uses this](things-to-live-by/things-that-make-me-happy.-1.md)
 * [🌻 Keep going](things-to-live-by/keep-going.md)
