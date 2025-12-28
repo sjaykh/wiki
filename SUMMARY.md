@@ -65,6 +65,8 @@
     * [2025 September](writing/looking-back/2025/2023-march-8.md)
     * [2025 October](writing/looking-back/2025/2023-march-9.md)
     * [2025 November](writing/looking-back/2025/2023-march-10.md)
+    * [2025 December](writing/looking-back/2025/2023-march-11.md)
+    * [40 Questions 2025](writing/looking-back/2025/2023-march-12.md)
   * [2024](writing/looking-back/2024/README.md)
     * [2024 February](writing/looking-back/2024/2024-february.md)
     * [2024 March](writing/looking-back/2024/2024-march.md)
