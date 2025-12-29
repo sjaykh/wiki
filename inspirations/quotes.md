@@ -4,6 +4,9 @@ description: collected from various sources
 
 # 🛣️ Quotes
 
+*   ⁠⁠"The only competition I’ve come to love is the one against myself, and that’s not really a competition, now is it? The progress of betterment. Playing your part to the best of your abilities in a beautiful whole.
+
+    That’s the joy I take away from racing cars for endurance. It’s not so much being faster than the other cars, but striving to perfect your own contribution as part of a team. Pushing against the limits of perfect execution over the long term. 24 hours of testing your capability to avoid mistake and fatigue. Winning is almost incidental to that."
 * "I've always thought of myself as an 80 percenter. I like to throw myself passionately into a sport or activity until I reach about an 80 percent proficiency level. To go beyond that requires an obsession that doesn't appeal to me." Yvon Chouinard
 * “The biggest heartbreak wasn’t watching the system fail good people; it was watching some of those same people get reshaped by it. They began to mirror the very patterns they once recognized and resisted, because that was the model of “leadership” around them.”
 *
