@@ -53,6 +53,9 @@
 ## Writing
 
 * [✍️ Looking Back](writing/looking-back/README.md)
+  * [2026](writing/looking-back/2026/README.md)
+    * [2026 January](writing/looking-back/2026/2026-january.md)
+    * [2026 February](writing/looking-back/2026/2026-february.md)
   * [2025](writing/looking-back/2025/README.md)
     * [2025 January](writing/looking-back/2025/2023-march.md)
     * [2025 February](writing/looking-back/2025/2023-march-1.md)
