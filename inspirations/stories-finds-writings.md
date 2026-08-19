@@ -6,6 +6,7 @@ description: Favorite ones are marked in green :)
 
 * [<mark style="color:green;">Pale Blue Dot - Carl Sagan</mark>](https://www.youtube.com/watch?v=wupToqz1e2g)
 * [<mark style="color:green;">Frank Abagnale at Google</mark> ](https://www.youtube.com/watch?v=vsMydMDi3rI)
+* [<mark style="color:green;">Javed Akhtar - on struggle, perserverance, hunger</mark>](https://www.youtube.com/watch?v=XpKVvx98C8c)
 * [John McCain about Obama at 2008 Presidential rally](https://www.youtube.com/watch?v=JIjenjANqAk)
 * [Blitzscaling 18 - Brian Chesky](https://www.youtube.com/watch?v=W608u6sBFpo)
 * [<mark style="color:green;">Syam Pushkaran about his job</mark>](https://www.youtube.com/watch?v=9k5RU_detl0)
