@@ -59,6 +59,7 @@
     * [2026 March](writing/looking-back/2026/2026-march.md)
     * [2026 April](writing/looking-back/2026/2026-april.md)
     * [2026 - May, June, July](writing/looking-back/2026/2026-may-june-july.md)
+    * [2026 - August](writing/looking-back/2026/2026-august.md)
   * [2025](writing/looking-back/2025/README.md)
     * [2025 January](writing/looking-back/2025/2023-march.md)
     * [2025 February](writing/looking-back/2025/2023-march-1.md)

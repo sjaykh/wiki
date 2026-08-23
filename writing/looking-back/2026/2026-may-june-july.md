@@ -33,3 +33,11 @@ I want to shift to a new place, the place is idetinfied and sorted. Need a chang
 <figure><img src="../../../.gitbook/assets/418FAD83-1EE2-4F11-86D6-66DD0A8D6959.JPG" alt=""><figcaption></figcaption></figure>
 
 Yeah, I think I am running from a lot of stuff and is constantly being distracted by a lot of things. Well on to July then.&#x20;
+
+***
+
+july was a bit difficult for me. I made some sudden decisions, didn't like the decisions and had to reverse it. I guess that kind of had a hit on me.&#x20;
+
+I am kind of thinking about a lot of things in life -what I prefer, what I learned on the way and what makes me really happy.&#x20;
+
+i think i have a lot to do there :)&#x20;
