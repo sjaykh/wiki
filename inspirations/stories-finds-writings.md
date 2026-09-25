@@ -5,6 +5,7 @@ description: Favorite ones are marked in green :)
 # 🔗 Stories/Finds/Writings (links)
 
 * [<mark style="color:green;">Pale Blue Dot - Carl Sagan</mark>](https://www.youtube.com/watch?v=wupToqz1e2g)
+* [<mark style="color:$success;">How do taoists quit smoking</mark> ](https://taylor.town/how-do-taoists-quit-smoking)
 * [Lots of links ](https://annierau.com/LOL-lots-of-links)
 * [<mark style="color:green;">Frank Abagnale at Google</mark> ](https://www.youtube.com/watch?v=vsMydMDi3rI)
 * [<mark style="color:green;">Javed Akhtar - on struggle, perserverance, hunger</mark>](https://www.youtube.com/watch?v=XpKVvx98C8c)
