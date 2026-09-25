@@ -18,7 +18,7 @@
 ## Inspirations
 
 * [🛣️ Quotes](inspirations/quotes.md)
-* [🔗 Stories/Finds/Writings](inspirations/stories-finds-writings.md)
+* [🔗 Stories/Finds/Writings (links)](inspirations/stories-finds-writings.md)
 * [🖼️ Literature/ Writings.](inspirations/literature-writings./README.md)
   * [The Riddle of Strider](inspirations/literature-writings./the-riddle-of-strider.md)
   * [If by Rudyard Kipling](inspirations/literature-writings./if-by-rudyard-kipling.md)
