@@ -4,7 +4,7 @@ It was a tough time to be honest, especially september.&#x20;
 
 Did a lot of stuff (Sanjay from the future, go through the photos)&#x20;
 
-One thing is - Community matters a lot. Friends and Family. Life doesn't have to be grand or anything.&#x20;
+One thing is - Community matters a lot. Friends and Family. Life doesn't have to be grand or anything. You broke your comfort zone, did a lot of stuff, you did good :)&#x20;
 
 I hope you find your way and your light 🫂
 
